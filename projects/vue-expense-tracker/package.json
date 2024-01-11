@@ -1,0 +1,16 @@
+{
+    "name": "vue-expense-tracker",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vue-tsc && vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "vue": "^3.3.8",
+        "vue-toastification": "v2.0.0-rc.5"
+    },
+    "devDependencies": {}
+}
